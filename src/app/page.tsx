@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6 sm:p-10">
       <h1 className="text-4xl sm:text-5xl font-bold text-pink-800 mb-4 text-center tracking-tight uppercase">
-        Assignment 7 ♡
+       ♡
       </h1>
       <p className="text-xl font-semibold sm:text-2xl text-pink-700 mb-12 text-center">
       ˚˖𓍢ִ໋🌷 Explore how data is fetched using both client-side and server-side approaches in Next.js. 🌷͙֒
